@@ -1,6 +1,6 @@
-# fetchRewardDotCom
+# Fetch Rewards Coding Exercise - SDET
 
-Fetch Rewards Coding Exercise - SDET
+
 
 Website ​http://ec2-54-208-152-154.compute-1.amazonaws.com/​
 
